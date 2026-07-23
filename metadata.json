@@ -1,0 +1,6 @@
+{
+  "name": "FitTrack",
+  "description": "A professional personal fitness & wellness app with AI diet planning, workout sessions, progress tracking, and smart coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
